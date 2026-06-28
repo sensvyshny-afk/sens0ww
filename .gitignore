@@ -1,0 +1,12 @@
+# Node, Python, general
+node_modules/
+.env
+__pycache__/
+.DS_Store
+/*.zip
+
+# VS Code
+.vscode/
+
+# log files
+*.log
